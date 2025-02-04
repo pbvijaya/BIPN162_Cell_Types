@@ -1,4 +1,5 @@
 Project Overview
 
-variables: gene expression, electrophysiology
+variables: gene expression, electrophysiology 
+
 cell types:
